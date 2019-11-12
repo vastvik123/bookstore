@@ -1,0 +1,44 @@
+#navigation{
+	background-color: darkblue;
+}
+#navigation button{
+	background-color: orange;
+	border-radius: 5%;
+	padding: 0;
+	border:none;
+}
+#navigation img{
+	border-radius: 5%;
+	border:2px solid black;
+}
+
+.nav-link{
+	color: white;
+}
+
+#search{
+	margin-top: 2%;
+}
+#search input{
+	margin-left:78%;
+	width:15%;
+}
+#search button{
+	
+	padding:0%;
+	width:5%;
+	background-color:darkblue;
+	cursor: pointer;
+	border: 1px solid black;
+}
+#books div{
+	margin:2%;
+}
+
+.more{
+	background-color:white;
+	border:none;
+	cursor:pointer;
+}
+
+
